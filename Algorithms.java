@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class Sample1 {
+public class Algoritms {
 
 public static void main(String[] args) {
 	int i,j;
